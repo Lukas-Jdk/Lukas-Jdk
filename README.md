@@ -9,8 +9,10 @@ Junior Full-stack Developer based in Oslo.
 - Supabase (PostgreSQL)
 - MongoDB
 - HTML / CSS
-- Git
 - Auth
+- Git
+- Vercel
+
   
 
 ## Projects
