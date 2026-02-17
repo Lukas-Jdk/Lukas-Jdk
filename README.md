@@ -21,7 +21,9 @@ Backend & Database
 - Node.js
 - Supabase (PostgreSQL)
 - MongoDB
-- Authentication (Auth)
+
+Authentication
+- Supabase Auth / JWT-based authentication
 
 Tools & Deployment
 - Git
