@@ -16,6 +16,7 @@ Junior Full-stack Developer based in Oslo.
 ## Projects
 - Portfolio: https://lukas-juodeikis-portfolio.vercel.app/
 - Live project: https://heelsbykristi.no
+- Live project: https://joestetiskglow.no/
 - Chatbots: https://chat-bots-psi.vercel.app/
 
 ## Currently
