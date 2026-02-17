@@ -42,13 +42,13 @@ Full-stack platform (React + TypeScript + Supabase)
 PostgreSQL database, authentication and user dashboard.  
 Currently in final testing – launching soon.
 
-
+---
 
 ## Currently
 
 Building my own full-stack service platform and looking for a Junior Developer position.
 
-
+---
 
 ## Availability
 
@@ -57,6 +57,7 @@ Available through NAV arbeidstrening (no cost for employer)
 Open to:
 On-site / Hybrid / Remote (Oslo)
 
+---
 
 ## Contact
 
