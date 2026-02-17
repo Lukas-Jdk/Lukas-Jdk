@@ -3,14 +3,14 @@
 Junior Full-stack Developer based in Oslo.
 
 ## Technologies
-- JavaScript
-- TypeScript
 - React
+- TypeScript
 - Node.js
-- HTML
-- CSS
-- SupaBase
+- Supabase (PostgreSQL)
+- MongoDB
+- HTML / CSS
 - Git
+- Auth
   
 
 ## Projects
@@ -18,6 +18,10 @@ Junior Full-stack Developer based in Oslo.
 - Live project: https://heelsbykristi.no
 - Live project: https://joestetiskglow.no/
 - Chatbots: https://chat-bots-psi.vercel.app/
+  
+- Full-stack application (React + TypeScript + Supabase)
+PostgreSQL database, authentication, and user dashboard.
+Currently in final testing – launching soon.
 
 ## Currently
 Building my own web platform and looking for a Junior Developer position.
