@@ -10,9 +10,12 @@ Experience with authentication, database integration and deployment to productio
 ## Tech Stack
 
 Frontend
-- React
+- JavaScript (ES6+)
 - TypeScript
-- HTML / CSS
+- React
+- Next.js
+- HTML
+- CSS
 
 Backend & Database
 - Node.js
