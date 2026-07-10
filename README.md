@@ -34,8 +34,9 @@ Tools & Deployment
 ## Projects
 
 Production websites (real clients)
+- https://linkseta.com
 - https://heelsbykristi.no
-- https://joestetiskglow.no
+
 
 Portfolio
 - https://lukas-juodeikis-portfolio.vercel.app/
